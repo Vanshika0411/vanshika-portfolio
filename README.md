@@ -18,12 +18,25 @@ The site is designed with **HTML, CSS, and JavaScript**, ensuring both simplicit
 * **Frontend:** HTML, CSS, JavaScript
 * **Deployment:** Vercel
 * 
-## 📌 Sections
+## 📌 Website Sections
 
-1. **Home** – Introduction & personal tagline.
-2. **About** – Quick overview of skills and background.
-3. **Projects** – Highlight of featured projects with live/demo links.
-4. **Contact** – Direct form + social links for networking.
+🏠 Home – Introduction and personal tagline with a welcoming layout.
+
+👩‍💻 About – A brief overview of who I am, my goals, and passion for tech.
+
+🛠️ Skills – Technical and soft skills presented in a clear and organized way.
+
+📂 Projects – Showcasing my top projects with live demos and GitHub links.
+
+📑 Research – Highlights of my academic/research work and contributions.
+
+💼 Experience – Professional work experience and internships.
+
+🎓 Education – Academic background, degrees, and institutions.
+
+📜 Certifications – Verified certifications and achievements.
+
+📬 Contact – Contact form and links to connect with me directly.
 
 ## 🚀 Deployment
 
