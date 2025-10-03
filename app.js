@@ -239,7 +239,7 @@ const portfolioData = {
     {
       name: "Python for Data Science, AI & Development",
       issuer: "IBM",
-      date: "April 2024",
+      date: "April 2025",
       // "credentialId": "Course Certificate",
       link: "https://coursera.org/share/1fadd3c708a26d3db374da4c458395ee",
     },
